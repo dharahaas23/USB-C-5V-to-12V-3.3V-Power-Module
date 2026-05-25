@@ -3,7 +3,7 @@
 A compact multi-rail power supply PCB powered by USB-C, providing three
 regulated output voltages: +5V, +3.3V, and +12V. Designed from scratch in KiCad.
 
-![3D Render Front](https://github.com/user-attachments/assets/1fe57262-3da6-41c8-97be-1e49feba9f3a)
+![3D Render Front](https://github.com/user-attachments/assets/d2f6ee62-8277-456a-9740-b7e2a40e5522)
 
 ## Features
 
@@ -23,7 +23,7 @@ regulated output voltages: +5V, +3.3V, and +12V. Designed from scratch in KiCad.
 
 | Schematic | PCB Front | PCB Back | 3D Front | 3D Back |
 |---|---|---|---|---|
-| ![](https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db) | ![](https://github.com/user-attachments/assets/1d3ca9d0-2474-4e23-9009-83b18ad646e1) | ![](https://github.com/user-attachments/assets/aa3ee734-f9c4-41c1-9943-bddc84a89f7d) | ![](https://github.com/user-attachments/assets/aa447381-f710-43e5-865d-2c27241b2b49) | ![](https://github.com/user-attachments/assets/f4d8b7f9-1295-45d8-86a1-e70f131f6260) |
+| ![](https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db) | ![](https://github.com/user-attachments/assets/0c810196-d837-42bb-a281-1498b4b767d7) | ![](https://github.com/user-attachments/assets/1f54cc57-76c8-4798-9a6d-a2debc4ea864) | ![](https://github.com/user-attachments/assets/9f2a02da-3305-47b7-880f-6cdee27a0942) | ![](https://github.com/user-attachments/assets/d0a34ec1-e12c-4164-abed-99902354d34b) |
 
 ## Schematic Blocks
 
@@ -118,10 +118,10 @@ Adjust RV1 trimmer pot down to set exactly 12V output.
 
 | File/Folder | Description |
 |---|---|
-| [USB-C Power Delivery Board.zip](https://github.com/user-attachments/files/28215262/USB-C.Power.Delivery.Board.zip) | Production-ready Gerber files |
+| [USB-C 5V to 12V(or)3.3V Power Module.zip](https://github.com/user-attachments/files/28216456/USB-C.5V.to.12V.or.3.3V.Power.Module.zip) | Production-ready Gerber files, |
 | https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db | Full KiCad schematic export |
-| [USB-C Power Delivery Board.csv](https://github.com/user-attachments/files/28215278/USB-C.Power.Delivery.Board.csv) | Bill of materials |
-| https://github.com/user-attachments/assets/1f9b4e9e-639a-4718-aa5e-13d0222d9273 |PCB layout|
+| [USB-C Power Delivery Board.csv](https://github.com/user-attachments/files/28215278/USB-C.Power.Delivery.Board.csv) | Bill of materials,schematic file,PCB file |
+| https://github.com/user-attachments/assets/baa54775-a502-4f2d-b382-05e4ec464d3f |PCB layout|
 
 ## Bill of Materials
 
