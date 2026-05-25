@@ -3,7 +3,7 @@
 A compact multi-rail power supply PCB powered by USB-C, providing three
 regulated output voltages: +5V, +3.3V, and +12V. Designed from scratch in KiCad.
 
-![3D Render Front](https://github.com/user-attachments/assets/d2f6ee62-8277-456a-9740-b7e2a40e5522)
+![3D Render Front](https://github.com/user-attachments/assets/401b7bf6-4510-472d-8035-8b7a724674e9)
 
 ## Features
 
@@ -23,7 +23,7 @@ regulated output voltages: +5V, +3.3V, and +12V. Designed from scratch in KiCad.
 
 | Schematic | PCB Front | PCB Back | 3D Front | 3D Back |
 |---|---|---|---|---|
-| ![](https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db) | ![](https://github.com/user-attachments/assets/0c810196-d837-42bb-a281-1498b4b767d7) | ![](https://github.com/user-attachments/assets/1f54cc57-76c8-4798-9a6d-a2debc4ea864) | ![](https://github.com/user-attachments/assets/9f2a02da-3305-47b7-880f-6cdee27a0942) | ![](https://github.com/user-attachments/assets/d0a34ec1-e12c-4164-abed-99902354d34b) |
+| ![](https://github.com/user-attachments/assets/7de8c966-7a17-4c1d-ace3-6070accc6bd8) | ![](https://github.com/user-attachments/assets/886c4d0a-2905-4fe6-8c00-ac657cee22c4) | ![](https://github.com/user-attachments/assets/eb5241c5-332c-444a-ba89-7ebfceddac5e) | ![](https://github.com/user-attachments/assets/fbf68e3d-edcc-40d2-ae9c-ce6d2a467052) | ![](https://github.com/user-attachments/assets/e4406ef6-888d-4722-8d64-119b3d111ca1) |
 
 ## Schematic Blocks
 
@@ -118,10 +118,10 @@ Adjust RV1 trimmer pot down to set exactly 12V output.
 
 | File/Folder | Description |
 |---|---|
-| [USB-C 5V to 12V(or)3.3V Power Module.zip](https://github.com/user-attachments/files/28216456/USB-C.5V.to.12V.or.3.3V.Power.Module.zip) | Production-ready Gerber files, |
-| https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db | Full KiCad schematic export |
-| [USB-C Power Delivery Board.csv](https://github.com/user-attachments/files/28215278/USB-C.Power.Delivery.Board.csv) | Bill of materials,schematic file,PCB file |
-| https://github.com/user-attachments/assets/baa54775-a502-4f2d-b382-05e4ec464d3f |PCB layout|
+| [USB-C 5V to 12V(or)3.3V Power Module.zip](https://github.com/user-attachments/files/28216456/USB-C.5V.to.12V.or.3.3V.Power.Module.zip) | Production-ready Gerber files,schematic file,PCB file |
+| https://github.com/user-attachments/assets/7de8c966-7a17-4c1d-ace3-6070accc6bd8 | Full KiCad schematic export |
+| [USB-C Power Delivery Board.csv](https://github.com/user-attachments/files/28215278/USB-C.Power.Delivery.Board.csv) | Bill of materials |
+| https://github.com/user-attachments/assets/2622ae87-a2a4-46a8-87d8-6a400186b871 |PCB layout|
 
 ## Bill of Materials
 
