@@ -121,7 +121,7 @@ Adjust RV1 trimmer pot down to set exactly 12V output.
 | [USB-C Power Delivery Board.zip](https://github.com/user-attachments/files/28215262/USB-C.Power.Delivery.Board.zip) | Production-ready Gerber files |
 | https://github.com/user-attachments/assets/ddbc902b-fe07-4740-94e9-e749f22477db | Full KiCad schematic export |
 | [USB-C Power Delivery Board.csv](https://github.com/user-attachments/files/28215278/USB-C.Power.Delivery.Board.csv) | Bill of materials |
-|  ![](https://github.com/user-attachments/assets/1f9b4e9e-639a-4718-aa5e-13d0222d9273) |PCB layout|
+| https://github.com/user-attachments/assets/1f9b4e9e-639a-4718-aa5e-13d0222d9273 |PCB layout|
 
 ## Bill of Materials
 
